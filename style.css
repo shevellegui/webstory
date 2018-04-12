@@ -1,0 +1,17 @@
+body {
+	background-color: #E6E6FA;
+	text-align: center;
+}
+
+h1 {
+	text-decoration: underline;
+	color:#4000ff;
+	font-family: Courier New, Impact, Ariel, helvetica, sans-serif;
+	font-size: 24px 
+}
+p {
+	color:blue;
+	font-family: Courier New, Impact, Ariel, helvetica, sans-serif;
+}
+
+
